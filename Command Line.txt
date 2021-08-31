@@ -1,0 +1,15 @@
+Command Line Interface(CLI)============
+
+mkdir foldername= To create folder
+ls -a         = To show all files(secret files also)//mac
+ls             = lists all files//mac
+dir            =lists all files
+cd foldername =To navigate into folder
+cd..\         = To exit from folder
+nul > filename.extenxion=To create file
+touch filename.extenxion=To create file (Mac)
+del/f filename     =To delete file
+
+
+
+
